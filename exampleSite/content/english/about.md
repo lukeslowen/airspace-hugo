@@ -1,5 +1,5 @@
 ---
-title: "About Our Company"
+title: "About Earlsdon Online"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
