@@ -4,12 +4,12 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Coventry's longest running community website "
+  content: "Come and be part of your community"
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project"
+    label: "Browse our local information"
+    link: "local-information"
 
 ############################# About #################################
 about:
